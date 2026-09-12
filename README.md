@@ -1,4 +1,6 @@
-# media-industry-analyzer · 传媒行业研究 Skill
+# 传媒行业研究
+
+> **在线查看报告**：https://nnnn95.github.io/media-industry-analyzer/
 
 ## 报告
 
